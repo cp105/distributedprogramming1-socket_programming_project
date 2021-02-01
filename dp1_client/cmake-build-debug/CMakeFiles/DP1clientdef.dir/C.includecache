@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vic/CLionProjects/DP1clientdef/main.c
+stdlib.h
+-
+string.h
+-
+inttypes.h
+-
+sys/stat.h
+-
+errno.h
+-
+syslog.h
+-
+unistd.h
+-
+stdio.h
+-
+bits/types/FILE.h
+-
+sys/socket.h
+-
+sys/select.h
+-
+sys/wait.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+

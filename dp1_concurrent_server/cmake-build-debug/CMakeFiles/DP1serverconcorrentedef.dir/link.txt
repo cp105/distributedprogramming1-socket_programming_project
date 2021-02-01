@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/DP1serverconcorrentedef.dir/main.c.o CMakeFiles/DP1serverconcorrentedef.dir/protocol.c.o  -o DP1serverconcorrentedef 

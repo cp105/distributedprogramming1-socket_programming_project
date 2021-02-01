@@ -1,0 +1,3 @@
+/home/vic/CLionProjects/DP1serverdef/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vic/CLionProjects/DP1serverdef/cmake-build-debug/CMakeFiles/DP1serverdef.dir
+/home/vic/CLionProjects/DP1serverdef/cmake-build-debug/CMakeFiles/edit_cache.dir

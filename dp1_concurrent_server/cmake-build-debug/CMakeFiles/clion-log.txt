@@ -1,0 +1,5 @@
+/home/vic/Scaricati/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/vic/CLionProjects/DP1serverconcorrentedef
+-- Configuring done
+Warning: Source file "/home/vic/CLionProjects/DP1serverconcorrentedef/protocol.c" is listed multiple times for target "DP1serverconcorrentedef".
+-- Generating done
+-- Build files have been written to: /home/vic/CLionProjects/DP1serverconcorrentedef/cmake-build-debug

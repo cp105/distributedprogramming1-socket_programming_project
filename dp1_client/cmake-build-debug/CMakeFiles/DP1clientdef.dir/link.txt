@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/DP1clientdef.dir/main.c.o CMakeFiles/DP1clientdef.dir/protocol.c.o  -o DP1clientdef 
